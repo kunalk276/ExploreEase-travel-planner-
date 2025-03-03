@@ -1,0 +1,62 @@
+/* Custom styles */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Dark mode transition */
+.transition-colors {
+  transition-property: background-color, color;
+  transition-duration: 300ms;
+  transition-timing-function: ease-in-out;
+}
+
+/* Custom styles for components */
+.bg-gradient-hero {
+  background-image: linear-gradient(to right, #1e3a8a, #111827);
+}
+
+/* Responsive image grid in Hero component */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .hero-image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+}
+
+/* Custom styles for the booking component */
+.booking-container {
+  background-color: rgba(31, 41, 55, 0.8);
+  backdrop-filter: blur(10px);
+}
+
+/* Custom hover effects */
+.hover-purple:hover {
+  color: #9333ea;
+}
+
+/* Ensure proper spacing for mobile menu items */
+.mobile-menu-item {
+  padding: 0.75rem 1rem;
+}
+
+/* Custom animation for logo spin */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-logo-spin {
+  animation: logo-spin infinite 20s linear;
+}
