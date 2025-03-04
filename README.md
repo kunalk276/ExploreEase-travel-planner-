@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # ExploreEase-travel-planner-
-=======
+
 # ExploreEase - Your Ultimate Travel Companion 🌍✈️
 
 ## Overview
@@ -32,7 +32,7 @@ ExploreEase is a modern, user-friendly travel application built with React, Type
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/yatra-travel-app.git
+   git clone https://github.com/kunalk276/ExploreEase-travel-planner-.git
    ```
 
 2. Navigate to the project directory:
@@ -80,9 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all the contributors who have helped shape ExploreEase.
 - Special thanks to the React, TypeScript, and Vite communities for their excellent tools and documentation.
 
-<div align="center">
-  <img src="https://your-image-url.com/yatra-demo.gif" alt="ꌩā꓄ꋪā Demo" width="600">
-</div>
+
 
 ## 🌟 Interactive Elements
 
@@ -94,11 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Dynamic Weather**: See real-time weather updates for your selected destinations.
 - **Virtual Tours**: Take 360° virtual tours of selected accommodations before booking.
 
-<div align="center">
-  <a href="https://your-demo-url.com" target="_blank">
-    <img src="https://your-image-url.com/try-demo-button.png" alt="Try ꌩā꓄ꋪā Demo" width="200">
-  </a>
-</div>
 
 Start your journey with ExploreEase today and unlock a world of travel possibilities! 🌈🗺️
->>>>>>> d551e65 (Initial commit)                                             
+                                           
