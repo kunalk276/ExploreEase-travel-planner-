@@ -87,7 +87,7 @@ const ContactUs: React.FC = () => {
               className="mt-6 lg:mt-8"
             >
               <img
-                src="src/assets/elements/BecomeAnAuthorImg.png"
+                src="assets/elements/BecomeAnAuthorImg.png"
                 alt="Adventure"
                 className="rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300 w-full h-auto"
               />

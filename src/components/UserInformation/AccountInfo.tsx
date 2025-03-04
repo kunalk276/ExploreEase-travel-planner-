@@ -44,7 +44,7 @@ const ProfileForm: React.FC = () => {
         phone: "9325520672",
         address: "Mumbai",
         about: "I love traveling!",
-        profilePic: "/src/assets/avatars/kk.jpg",
+        profilePic: "assets/avatars/kk.jpg",
       };
       setName(userData.name);
       setEmail(userData.email);

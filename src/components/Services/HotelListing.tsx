@@ -60,9 +60,9 @@ const hotelData: Hotel = {
   ],
   images: [
     "https://i.ytimg.com/vi/9o57q8KMbPc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDILWKAA0eX2buxBLTlh5gwPEZmCA",
-    "src/assets/elements/bedroom.jpg",
-    "src/assets/elements/gym.jpg",
-    "src/assets/elements/hall.jpg",
+    "assets/elements/bedroom.jpg",
+    "assets/elements/gym.jpg",
+    "assets/elements/hall.jpg",
     "https://img.freepik.com/free-photo/udaipur-city-view-from-hotel-balcony-rajasthan-india_53876-65505.jpg?t=st=1741018426~exp=1741022026~hmac=dc63edad24d89380a46baccfcab8b9dc7ad1298f3a44b704b47757efffac0edc&w=1800",
     "https://img.freepik.com/free-photo/park-city_1127-4100.jpg?t=st=1741018522~exp=1741022122~hmac=fa0ad178ea2730923287c981074dcb37f9be59a94d5aafe1e45d1b87db500881&w=1800",
   ],

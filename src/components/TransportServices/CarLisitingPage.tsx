@@ -24,7 +24,7 @@ const carsData: Car[] = [
   {
     brand: "Toyota",
     model: "Fortuner",
-    logo: "src/assets/cars/toyota.png",
+    logo: "assets/cars/toyota.png",
     type: "Luxury SUV",
     seats: 7,
     transmission: "Automatic",
@@ -41,7 +41,7 @@ const carsData: Car[] = [
   {
     brand: "Ford",
     model: "Endeavour",
-    logo: "src/assets/cars/ford.jpeg",
+    logo: "assets/cars/ford.jpeg",
     type: "Luxury SUV",
     seats: 7,
     transmission: "Automatic",
@@ -58,7 +58,7 @@ const carsData: Car[] = [
   {
     brand: "Mercedes-Benz",
     model: "E-Class",
-    logo: "src/assets/cars/mercedes.png",
+    logo: "assets/cars/mercedes.png",
     type: "Luxury Sedan",
     seats: 5,
     transmission: "Automatic",
@@ -75,7 +75,7 @@ const carsData: Car[] = [
   {
     brand: "BMW",
     model: "X7",
-    logo: "src/assets/cars/bmw.png",
+    logo: "assets/cars/bmw.png",
     type: "Luxury SUV",
     seats: 7,
     transmission: "Automatic",
@@ -92,7 +92,7 @@ const carsData: Car[] = [
   {
     brand: "Jaguar",
     model: "F-Pace",
-    logo: "src/assets/cars/jaguar.png",
+    logo: "assets/cars/jaguar.png",
     type: "Luxury SUV",
     seats: 5,
     transmission: "Automatic",
@@ -109,7 +109,7 @@ const carsData: Car[] = [
   {
     brand: "Volvo",
     model: "XC90",
-    logo: "src/assets/cars/volvo.png",
+    logo: "assets/cars/volvo.png",
     type: "Luxury SUV",
     seats: 7,
     transmission: "Automatic",
@@ -126,7 +126,7 @@ const carsData: Car[] = [
   {
     brand: "Audi",
     model: "Q8",
-    logo: "src/assets/cars/audi.png",
+    logo: "assets/cars/audi.png",
     type: "Ultra Luxury SUV",
     seats: 5,
     transmission: "Automatic",

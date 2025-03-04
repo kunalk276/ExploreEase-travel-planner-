@@ -40,12 +40,12 @@ const Hero: React.FC = () => {
           <div className="w-full lg:w-1/2 relative">
             <div className="grid grid-cols-2 gap-6 transform rotate-3 hover:rotate-0 transition-all duration-500">
               <img
-                src="src\assets\elements\hero-right.png"
+                src="\assets\elements\hero-right.png"
                 alt="Adventure"
                 className="rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300"
               />
               <img
-                src="src\assets\elements\hero-right2.png"
+                src="\assets\elements\hero-right2.png"
                 alt="Luxury Hotel"
                 className="rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300"
               />
@@ -140,7 +140,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     // Manali
     {
       title: "Luxury Resort - 5 beds",
-      src: "src/assets/elements/hotel1.png",
+      src: "/assets/elements/hotel1.png",
       name: "Snow Peak Resort",
       address: "Mall Road, Manali",
       price: "₹5,500/night",
@@ -150,7 +150,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Cozy Cottage - 4 beds",
-      src: "src/assets/elements/hotel2.png",
+      src: "/assets/elements/hotel2.png",
       name: "Himalayan Bliss Cottage",
       address: "Old Manali, Manali",
       price: "₹3,200/night",
@@ -160,7 +160,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Boutique Stay - 6 beds",
-      src: "src/assets/elements/hotel3.png",
+      src: "/assets/elements/hotel3.png",
       name: "The Pinewood Escape",
       address: "Solang Valley, Manali",
       price: "₹7,800/night",
@@ -172,7 +172,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     // Coorg
     {
       title: "Luxury Plantation Retreat - 8 beds",
-      src: "src/assets/elements/hotel4.png",
+      src: "assets/elements/hotel4.png",
       name: "Coorg Coffee Estate Resort",
       address: "Madikeri, Coorg",
       price: "₹9,500/night",
@@ -182,7 +182,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Riverside Villa - 5 beds",
-      src: "src/assets/elements/hotel5.png",
+      src: "/assets/elements/hotel5.png",
       name: "Serene Riverfront Stay",
       address: "Kushalnagar, Coorg",
       price: "₹6,000/night",
@@ -194,7 +194,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     // Mumbai
     {
       title: "5-Star Luxury Hotel - 2 beds",
-      src: "src/assets/elements/hotel6.png",
+      src: "/assets/elements/hotel6.png",
       name: "Taj Mahal Palace",
       address: "Colaba, Mumbai",
       price: "₹50,000/night",
@@ -204,7 +204,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Modern Suite - 3 beds",
-      src: "src/assets/elements/hotel7.png",
+      src: "/assets/elements/hotel7.png",
       name: "Trident Nariman Point",
       address: "Nariman Point, Mumbai",
       price: "₹22,500/night",
@@ -216,7 +216,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     // Goa
     {
       title: "Beachfront Resort - 7 beds",
-      src: "src/assets/elements/hotel8.png",
+      src: "/assets/elements/hotel8.png",
       name: "Goa Sands Resort",
       address: "Baga Beach, Goa",
       price: "₹15,000/night",
@@ -226,7 +226,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Seaside Villa - 4 beds",
-      src: "src/assets/elements/hotel9.png",
+      src: "/assets/elements/hotel9.png",
       name: "Azure Beach House",
       address: "Candolim Beach, Goa",
       price: "₹9,200/night",
@@ -238,7 +238,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     // Shimla
     {
       title: "Colonial Heritage Stay - 6 beds",
-      src: "src/assets/elements/hotel10.png",
+      src: "/assets/elements/hotel10.png",
       name: "The Grand Imperial",
       address: "The Ridge, Shimla",
       price: "₹18,000/night",
@@ -248,7 +248,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Hilltop Chalet - 4 beds",
-      src: "src/assets/elements/hotel11.png",
+      src: "/assets/elements/hotel11.png",
       name: "Himalayan Heights",
       address: "Jakhoo Hills, Shimla",
       price: "₹12,500/night",
@@ -260,7 +260,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     // New Delhi
     {
       title: "Luxury Business Hotel - 3 beds",
-      src: "src/assets/elements/hotel12.png",
+      src: "/assets/elements/hotel12.png",
       name: "The Leela Palace",
       address: "Chanakyapuri, New Delhi",
       price: "₹30,000/night",
@@ -270,7 +270,7 @@ const FeaturedPlacesToStay: React.FC = () => {
     },
     {
       title: "Boutique Hotel - 2 beds",
-      src: "src/assets/elements/hotel13.png",
+      src: "/assets/elements/hotel13.png",
       name: "Haveli Heritage Stay",
       address: "Paharganj, New Delhi",
       price: "₹5,800/night",

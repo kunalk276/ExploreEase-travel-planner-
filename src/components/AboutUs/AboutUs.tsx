@@ -103,7 +103,7 @@ const AboutUs: React.FC = () => {
 
         <div className="grid transform rotate-5 transition-all duration-500 hover:rotate-0">
           <img
-            src="src/assets/elements/travelhero2.png"
+            src="assets/elements/travelhero2.png"
             alt="Adventure"
             className="rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300"
           />
@@ -205,7 +205,7 @@ const AboutUs: React.FC = () => {
           <h2 className="text-3xl font-bold mb-6 text-center text-indigo-800">Our Odyssey</h2>
           <div className="grid transform position-relative hover:rotate-0 transition-all duration-500">
               <img
-                src="src/assets/elements/about-hero-right.png"
+                src="assets/elements/about-hero-right.png"
                 alt="Adventure"
                 className="rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300"
               />

@@ -26,7 +26,7 @@ interface Flight {
 const flightsData = [
   {
     airline: "Air India",
-    logo: "src/assets/flights/air_india.png",
+    logo: "assets/flights/air_india.png",
     departureTime: "06:30 AM",
     arrivalTime: "09:15 AM",
     from: "Mumbai (BOM)",
@@ -48,7 +48,7 @@ const flightsData = [
   },
   {
     airline: "IndiGo",
-    logo: "src/assets/flights/indigo.png",
+    logo: "assets/flights/indigo.png",
     departureTime: "09:00 AM",
     arrivalTime: "11:30 AM",
     from: "Bangalore (BLR)",
@@ -70,7 +70,7 @@ const flightsData = [
   },
   {
     airline: "Vistara",
-    logo: "src/assets/flights/vistara.png",
+    logo: "assets/flights/vistara.png",
     departureTime: "02:15 PM",
     arrivalTime: "05:45 PM",
     from: "Chennai (MAA)",
@@ -92,7 +92,7 @@ const flightsData = [
   },
   {
     airline: "SpiceJet",
-    logo: "src/assets/flights/spicejet.png",
+    logo: "assets/flights/spicejet.png",
     departureTime: "07:00 AM",
     arrivalTime: "10:00 AM",
     from: "Pune (PNQ)",
@@ -114,7 +114,7 @@ const flightsData = [
   },
   {
     airline: "Go First",
-    logo: "src/assets/flights/go_first.png",
+    logo: "assets/flights/go_first.png",
     departureTime: "05:30 PM",
     arrivalTime: "08:00 PM",
     from: "Ahmedabad (AMD)",
@@ -136,7 +136,7 @@ const flightsData = [
   },
   {
     airline: "AirAsia India",
-    logo: "src/assets/flights/airasia.png",
+    logo: "assets/flights/airasia.png",
     departureTime: "08:45 AM",
     arrivalTime: "11:15 AM",
     from: "Hyderabad (HYD)",
