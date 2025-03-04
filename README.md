@@ -14,7 +14,7 @@ ExploreEase is a modern, user-friendly travel application built with React, Type
 ## ✨ Features
 
 - **Featured Places**: Browse through a curated list of popular destinations and accommodations.
-- **City Filters**: Quickly filter accommodations by major cities like New York, Tokyo, Paris, and London.
+- **City Filters**: Quickly filter accommodations by major cities like Manali, Coorg, Mumbai, Goa, Shimla, New Delhi.
 - **Detailed Listings**: View comprehensive information about each accommodation, including images, pricing, and ratings.
 - **Dark Mode and Light Mode**: Enjoy a comfortable viewing experience with our dark and light mode option.
 - **Responsive Design**: Access ꌩā꓄ꋪā on any device with our fully responsive layout.
